@@ -1,0 +1,249 @@
+{
+  "ia": "Copilot",
+  "torneio": "Copa do Mundo FIFA 2026",
+  "fase": "1ª Rodada",
+  "gerado_em": "2026-05-31",
+  "ordem": "oficial_professor_Danny",
+  "previsoes": [
+    {
+      "jogo": 1,
+      "mandante": "MEX",
+      "visitante": "RSA",
+      "placar": {
+        "mandante": 2,
+        "visitante": 0
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 2,
+      "mandante": "KOR",
+      "visitante": "CZE",
+      "placar": {
+        "mandante": 1,
+        "visitante": 1
+      },
+      "resultado_previsto": "empate"
+    },
+    {
+      "jogo": 3,
+      "mandante": "CAN",
+      "visitante": "BIH",
+      "placar": {
+        "mandante": 2,
+        "visitante": 1
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 4,
+      "mandante": "USA",
+      "visitante": "PAR",
+      "placar": {
+        "mandante": 1,
+        "visitante": 0
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 5,
+      "mandante": "HAI",
+      "visitante": "SCO",
+      "placar": {
+        "mandante": 0,
+        "visitante": 2
+      },
+      "resultado_previsto": "vitoria_visitante"
+    },
+    {
+      "jogo": 6,
+      "mandante": "AUS",
+      "visitante": "TUR",
+      "placar": {
+        "mandante": 1,
+        "visitante": 2
+      },
+      "resultado_previsto": "vitoria_visitante"
+    },
+    {
+      "jogo": 7,
+      "mandante": "BRA",
+      "visitante": "MAR",
+      "placar": {
+        "mandante": 2,
+        "visitante": 1
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 8,
+      "mandante": "QAT",
+      "visitante": "SUI",
+      "placar": {
+        "mandante": 0,
+        "visitante": 2
+      },
+      "resultado_previsto": "vitoria_visitante"
+    },
+    {
+      "jogo": 9,
+      "mandante": "CIV",
+      "visitante": "ECU",
+      "placar": {
+        "mandante": 1,
+        "visitante": 1
+      },
+      "resultado_previsto": "empate"
+    },
+    {
+      "jogo": 10,
+      "mandante": "GER",
+      "visitante": "CUW",
+      "placar": {
+        "mandante": 3,
+        "visitante": 0
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 11,
+      "mandante": "NED",
+      "visitante": "JPN",
+      "placar": {
+        "mandante": 2,
+        "visitante": 1
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 12,
+      "mandante": "SWE",
+      "visitante": "TUN",
+      "placar": {
+        "mandante": 1,
+        "visitante": 0
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 13,
+      "mandante": "KSA",
+      "visitante": "URU",
+      "placar": {
+        "mandante": 0,
+        "visitante": 2
+      },
+      "resultado_previsto": "vitoria_visitante"
+    },
+    {
+      "jogo": 14,
+      "mandante": "ESP",
+      "visitante": "CPV",
+      "placar": {
+        "mandante": 3,
+        "visitante": 0
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 15,
+      "mandante": "IRN",
+      "visitante": "NZL",
+      "placar": {
+        "mandante": 1,
+        "visitante": 0
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 16,
+      "mandante": "BEL",
+      "visitante": "EGY",
+      "placar": {
+        "mandante": 2,
+        "visitante": 1
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 17,
+      "mandante": "FRA",
+      "visitante": "SEN",
+      "placar": {
+        "mandante": 2,
+        "visitante": 1
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 18,
+      "mandante": "IRQ",
+      "visitante": "NOR",
+      "placar": {
+        "mandante": 0,
+        "visitante": 2
+      },
+      "resultado_previsto": "vitoria_visitante"
+    },
+    {
+      "jogo": 19,
+      "mandante": "ARG",
+      "visitante": "ALG",
+      "placar": {
+        "mandante": 3,
+        "visitante": 0
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 20,
+      "mandante": "AUT",
+      "visitante": "JOR",
+      "placar": {
+        "mandante": 2,
+        "visitante": 0
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 21,
+      "mandante": "GHA",
+      "visitante": "PAN",
+      "placar": {
+        "mandante": 2,
+        "visitante": 0
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 22,
+      "mandante": "ENG",
+      "visitante": "CRO",
+      "placar": {
+        "mandante": 2,
+        "visitante": 2
+      },
+      "resultado_previsto": "empate"
+    },
+    {
+      "jogo": 23,
+      "mandante": "POR",
+      "visitante": "COD",
+      "placar": {
+        "mandante": 3,
+        "visitante": 0
+      },
+      "resultado_previsto": "vitoria_mandante"
+    },
+    {
+      "jogo": 24,
+      "mandante": "UZB",
+      "visitante": "COL",
+      "placar": {
+        "mandante": 0,
+        "visitante": 2
+      },
+      "resultado_previsto": "vitoria_visitante"
+    }
+  ]
+}
